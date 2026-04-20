@@ -19,7 +19,7 @@ including my education, projects, certificates, and technical development tools,
 - Flexbox & Media Queries (for responsiveness)
 
 📸 Preview
-
+![Screenshot](WebPage-Screenshot.png)
 
 👩‍💻 Programmer
 Jory Alharbi
