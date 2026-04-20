@@ -21,5 +21,5 @@ including my education, projects, certificates, and technical development tools,
 📸 Preview
 ![Screenshot](WebPage-Screenshot.png)
 
-👩‍💻 Programmer
+👩‍💻 Software Engineer
 Jory Alharbi
